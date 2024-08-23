@@ -1,0 +1,25 @@
+/* Ramiro Ríos 2022 */
+
+body {
+    background-color: #000;
+}
+
+.hello {
+    color: red;
+    background-color: #334477;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 2500px;
+}
+
+.chef_suggestion {
+    border: 2px solid #aaaaaa;
+    border-radius: 1em;
+    background-color: #922753;
+    color: white;
+    padding: 0.7em;
+    position: absolute;
+    margin-left: 3rem !important;
+    margin-right: 3rem !important;
+}
